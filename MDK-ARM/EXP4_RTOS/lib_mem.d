@@ -1,0 +1,11 @@
+exp4_rtos\lib_mem.o: ..\uCOSIII\LIB\lib_mem.c
+exp4_rtos\lib_mem.o: ..\uCOSIII\LIB\lib_mem.h
+exp4_rtos\lib_mem.o: ..\uCOSIII\CPU\cpu.h
+exp4_rtos\lib_mem.o: ..\uCOSIII\CPU\cpu_def.h
+exp4_rtos\lib_mem.o: ..\uCOSIII\Config\cpu_cfg.h
+exp4_rtos\lib_mem.o: ..\uCOSIII\CPU\cpu_core.h
+exp4_rtos\lib_mem.o: ..\uCOSIII\LIB\lib_def.h
+exp4_rtos\lib_mem.o: ..\uCOSIII\Config\lib_cfg.h
+exp4_rtos\lib_mem.o: ..\uCOSIII\LIB\lib_math.h
+exp4_rtos\lib_mem.o: ..\uCOSIII\LIB\lib_str.h
+exp4_rtos\lib_mem.o: ..\uCOSIII\LIB\lib_ascii.h

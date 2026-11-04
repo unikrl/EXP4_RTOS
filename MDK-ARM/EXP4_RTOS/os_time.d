@@ -1,0 +1,12 @@
+exp4_rtos\os_time.o: ..\uCOSIII\Source\os_time.c
+exp4_rtos\os_time.o: ..\uCOSIII\Source\os.h
+exp4_rtos\os_time.o: ..\uCOSIII\Config\os_cfg.h
+exp4_rtos\os_time.o: ..\uCOSIII\Config\os_cfg_app.h
+exp4_rtos\os_time.o: ..\uCOSIII\CPU\cpu_core.h
+exp4_rtos\os_time.o: ..\uCOSIII\CPU\cpu.h
+exp4_rtos\os_time.o: ..\uCOSIII\CPU\cpu_def.h
+exp4_rtos\os_time.o: ..\uCOSIII\Config\cpu_cfg.h
+exp4_rtos\os_time.o: ..\uCOSIII\LIB\lib_def.h
+exp4_rtos\os_time.o: ..\uCOSIII\Source\os_type.h
+exp4_rtos\os_time.o: ..\uCOSIII\Ports\os_cpu.h
+exp4_rtos\os_time.o: ..\uCOSIII\Source\os_trace.h
